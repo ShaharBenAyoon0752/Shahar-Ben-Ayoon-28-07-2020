@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <test parallel="none" name="Test(failed)">
+    <classes>
+      <class name="tests.pageLinksTest">
+        <methods>
+          <include name="closeDriver"/>
+          <include name="pageRefresh"/>
+          <include name="startSession"/>
+          <include name="BottomLinks"/>
+        </methods>
+      </class> <!-- tests.pageLinksTest -->
+      <class name="tests.getHelpTest">
+        <methods>
+          <include name="scrollup"/>
+          <include name="pageRefresh"/>
+        </methods>
+      </class> <!-- tests.getHelpTest -->
+      <class name="tests.hearMoreTest">
+        <methods>
+          <include name="pageRefresh"/>
+        </methods>
+      </class> <!-- tests.hearMoreTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

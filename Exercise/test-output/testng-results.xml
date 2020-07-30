@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-30T18:13:41Z" name="Suite" finished-at="2020-07-30T18:15:52Z" duration-ms="131606">
+    <groups>
+    </groups>
+    <test started-at="2020-07-30T18:13:41Z" name="Test" finished-at="2020-07-30T18:15:52Z" duration-ms="131606">
+      <class name="tests.getHelpTest">
+        <test-method is-config="true" signature="scrollup()[pri:0, instance:tests.getHelpTest@e350b40]" started-at="2020-07-30T21:14:39Z" name="scrollup" finished-at="2020-07-30T21:14:39Z" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollup -->
+        <test-method signature="sendHelp()[pri:0, instance:tests.getHelpTest@e350b40]" started-at="2020-07-30T21:14:39Z" name="sendHelp" finished-at="2020-07-30T21:14:51Z" duration-ms="12313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendHelp -->
+        <test-method is-config="true" signature="pageRefresh()[pri:0, instance:tests.getHelpTest@e350b40]" started-at="2020-07-30T21:14:51Z" name="pageRefresh" finished-at="2020-07-30T21:14:52Z" duration-ms="921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+        <test-method signature="emptyNameError()[pri:0, instance:tests.getHelpTest@e350b40]" started-at="2020-07-30T21:14:52Z" name="emptyNameError" finished-at="2020-07-30T21:15:02Z" duration-ms="10396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyNameError -->
+        <test-method is-config="true" signature="pageRefresh()[pri:0, instance:tests.getHelpTest@e350b40]" started-at="2020-07-30T21:15:02Z" name="pageRefresh" finished-at="2020-07-30T21:15:03Z" duration-ms="1012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+        <test-method signature="emptyEmailError()[pri:0, instance:tests.getHelpTest@e350b40]" started-at="2020-07-30T21:15:03Z" name="emptyEmailError" finished-at="2020-07-30T21:15:09Z" duration-ms="5432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyEmailError -->
+        <test-method is-config="true" signature="pageRefresh()[pri:0, instance:tests.getHelpTest@e350b40]" started-at="2020-07-30T21:15:09Z" name="pageRefresh" finished-at="2020-07-30T21:15:10Z" duration-ms="1132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+        <test-method signature="emptyPhoneError()[pri:0, instance:tests.getHelpTest@e350b40]" started-at="2020-07-30T21:15:10Z" name="emptyPhoneError" finished-at="2020-07-30T21:15:20Z" duration-ms="10506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyPhoneError -->
+        <test-method is-config="true" signature="pageRefresh()[pri:0, instance:tests.getHelpTest@e350b40]" started-at="2020-07-30T21:15:20Z" name="pageRefresh" finished-at="2020-07-30T21:15:21Z" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+      </class> <!-- tests.getHelpTest -->
+      <class name="tests.hearMoreTest">
+        <test-method signature="sendHelp()[pri:0, instance:tests.hearMoreTest@41a0aa7d]" started-at="2020-07-30T21:13:41Z" name="sendHelp" finished-at="2020-07-30T21:13:50Z" duration-ms="9428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendHelp -->
+        <test-method is-config="true" signature="pageRefresh()[pri:0, instance:tests.hearMoreTest@41a0aa7d]" started-at="2020-07-30T21:13:50Z" name="pageRefresh" finished-at="2020-07-30T21:13:51Z" duration-ms="874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+        <test-method signature="emptyNameError()[pri:0, instance:tests.hearMoreTest@41a0aa7d]" started-at="2020-07-30T21:13:51Z" name="emptyNameError" finished-at="2020-07-30T21:14:02Z" duration-ms="10706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyNameError -->
+        <test-method is-config="true" signature="pageRefresh()[pri:0, instance:tests.hearMoreTest@41a0aa7d]" started-at="2020-07-30T21:14:02Z" name="pageRefresh" finished-at="2020-07-30T21:14:03Z" duration-ms="1151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+        <test-method signature="emptyCompanyError()[pri:0, instance:tests.hearMoreTest@41a0aa7d]" started-at="2020-07-30T21:14:03Z" name="emptyCompanyError" finished-at="2020-07-30T21:14:14Z" duration-ms="10731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyCompanyError -->
+        <test-method is-config="true" signature="pageRefresh()[pri:0, instance:tests.hearMoreTest@41a0aa7d]" started-at="2020-07-30T21:14:14Z" name="pageRefresh" finished-at="2020-07-30T21:14:15Z" duration-ms="1216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+        <test-method signature="emptyEmailError()[pri:0, instance:tests.hearMoreTest@41a0aa7d]" started-at="2020-07-30T21:14:15Z" name="emptyEmailError" finished-at="2020-07-30T21:14:25Z" duration-ms="10622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyEmailError -->
+        <test-method is-config="true" signature="pageRefresh()[pri:0, instance:tests.hearMoreTest@41a0aa7d]" started-at="2020-07-30T21:14:25Z" name="pageRefresh" finished-at="2020-07-30T21:14:27Z" duration-ms="1134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+        <test-method signature="emptyPhoneError()[pri:0, instance:tests.hearMoreTest@41a0aa7d]" started-at="2020-07-30T21:14:27Z" name="emptyPhoneError" finished-at="2020-07-30T21:14:37Z" duration-ms="10636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyPhoneError -->
+        <test-method is-config="true" signature="pageRefresh()[pri:0, instance:tests.hearMoreTest@41a0aa7d]" started-at="2020-07-30T21:14:37Z" name="pageRefresh" finished-at="2020-07-30T21:14:39Z" duration-ms="1346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+      </class> <!-- tests.hearMoreTest -->
+      <class name="tests.pageLinksTest">
+        <test-method is-config="true" signature="startSession()[pri:0, instance:tests.pageLinksTest@70e9c95d]" started-at="2020-07-30T21:13:30Z" name="startSession" finished-at="2020-07-30T21:13:41Z" duration-ms="11041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSession -->
+        <test-method signature="WhatsappNavigation()[pri:0, instance:tests.pageLinksTest@70e9c95d]" started-at="2020-07-30T21:15:21Z" name="WhatsappNavigation" finished-at="2020-07-30T21:15:23Z" duration-ms="2642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WhatsappNavigation -->
+        <test-method is-config="true" signature="pageRefresh()[pri:0, instance:tests.pageLinksTest@70e9c95d]" started-at="2020-07-30T21:15:23Z" name="pageRefresh" finished-at="2020-07-30T21:15:25Z" duration-ms="1083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+        <test-method signature="ScrollToTop()[pri:0, instance:tests.pageLinksTest@70e9c95d]" started-at="2020-07-30T21:15:25Z" name="ScrollToTop" finished-at="2020-07-30T21:15:35Z" duration-ms="10185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollToTop -->
+        <test-method is-config="true" signature="pageRefresh()[pri:0, instance:tests.pageLinksTest@70e9c95d]" started-at="2020-07-30T21:15:35Z" name="pageRefresh" finished-at="2020-07-30T21:15:36Z" duration-ms="1030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+        <test-method signature="BottomLinks()[pri:0, instance:tests.pageLinksTest@70e9c95d]" started-at="2020-07-30T21:15:36Z" name="BottomLinks" finished-at="2020-07-30T21:15:51Z" duration-ms="15103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BottomLinks -->
+        <test-method is-config="true" signature="pageRefresh()[pri:0, instance:tests.pageLinksTest@70e9c95d]" started-at="2020-07-30T21:15:51Z" name="pageRefresh" finished-at="2020-07-30T21:15:52Z" duration-ms="1489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:tests.pageLinksTest@70e9c95d]" started-at="2020-07-30T21:15:52Z" name="closeDriver" finished-at="2020-07-30T21:15:53Z" duration-ms="991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- tests.pageLinksTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
